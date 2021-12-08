@@ -1,5 +1,7 @@
 # real-time-docs
 
+Real-time text editor where people can collborate and provide real time inputs on a document.
+
 ## Client
 React app bundled using vite
 
